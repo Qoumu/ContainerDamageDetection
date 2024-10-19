@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>vlcsnap-2023-01-15-20h50m31s110_png_jpg.rf.314c1012fc780697937eae2bdd99f441.jpg</filename>
+	<path>vlcsnap-2023-01-15-20h50m31s110_png_jpg.rf.314c1012fc780697937eae2bdd99f441.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>273</xmin>
+			<xmax>641</xmax>
+			<ymin>95</ymin>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

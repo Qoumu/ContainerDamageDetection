@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BSIU9655557-14-_JPG_jpg.rf.43323059b3551be12f9107cc65c4d431.jpg</filename>
+	<path>BSIU9655557-14-_JPG_jpg.rf.43323059b3551be12f9107cc65c4d431.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>7</xmin>
+			<xmax>633</xmax>
+			<ymin>134</ymin>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

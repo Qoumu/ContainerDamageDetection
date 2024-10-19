@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>b5c5ca1b-DSCF1237_JPG_jpg.rf.341704bb29128a8d40c43797a3da141f.jpg</filename>
+	<path>b5c5ca1b-DSCF1237_JPG_jpg.rf.341704bb29128a8d40c43797a3da141f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>496</xmin>
+			<xmax>570</xmax>
+			<ymin>379</ymin>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

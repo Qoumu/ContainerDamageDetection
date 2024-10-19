@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>NYKU4817580-6-_JPG_jpg.rf.ffe38f0fe937c8e863cadc1df1ff2e88.jpg</filename>
+	<path>NYKU4817580-6-_JPG_jpg.rf.ffe38f0fe937c8e863cadc1df1ff2e88.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>570</xmax>
+			<ymin>279</ymin>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

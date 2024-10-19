@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BMOU5055950-19-_jpg.rf.98e589850c404205e8ae9b88f408a817.jpg</filename>
+	<path>BMOU5055950-19-_jpg.rf.98e589850c404205e8ae9b88f408a817.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>419</xmax>
+			<ymin>108</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

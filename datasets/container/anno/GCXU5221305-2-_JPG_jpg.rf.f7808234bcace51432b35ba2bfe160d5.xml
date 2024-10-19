@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>GCXU5221305-2-_JPG_jpg.rf.f7808234bcace51432b35ba2bfe160d5.jpg</filename>
+	<path>GCXU5221305-2-_JPG_jpg.rf.f7808234bcace51432b35ba2bfe160d5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>639</xmax>
+			<ymin>109</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

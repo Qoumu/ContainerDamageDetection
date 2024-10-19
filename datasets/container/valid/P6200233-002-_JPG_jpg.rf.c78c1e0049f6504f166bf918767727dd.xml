@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P6200233-002-_JPG_jpg.rf.c78c1e0049f6504f166bf918767727dd.jpg</filename>
+	<path>P6200233-002-_JPG_jpg.rf.c78c1e0049f6504f166bf918767727dd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>235</xmin>
+			<xmax>377</xmax>
+			<ymin>225</ymin>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

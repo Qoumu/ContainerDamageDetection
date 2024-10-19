@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DFSU3181729-3-_jpg.rf.89fcb5645bbe0885e9e260769ee276ac.jpg</filename>
+	<path>DFSU3181729-3-_jpg.rf.89fcb5645bbe0885e9e260769ee276ac.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>225</xmin>
+			<xmax>402</xmax>
+			<ymin>203</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

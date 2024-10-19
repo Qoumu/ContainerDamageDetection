@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BMOU4448150-2-_jpg.rf.c42380adcee92aea99d4ba39e9ecdca5.jpg</filename>
+	<path>BMOU4448150-2-_jpg.rf.c42380adcee92aea99d4ba39e9ecdca5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>117</xmax>
+			<ymin>373</ymin>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

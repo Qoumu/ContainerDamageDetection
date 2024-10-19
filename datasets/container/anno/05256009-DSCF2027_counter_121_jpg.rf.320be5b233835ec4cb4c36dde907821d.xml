@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>05256009-DSCF2027_counter_121_jpg.rf.320be5b233835ec4cb4c36dde907821d.jpg</filename>
+	<path>05256009-DSCF2027_counter_121_jpg.rf.320be5b233835ec4cb4c36dde907821d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>540</xmax>
+			<ymin>1</ymin>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

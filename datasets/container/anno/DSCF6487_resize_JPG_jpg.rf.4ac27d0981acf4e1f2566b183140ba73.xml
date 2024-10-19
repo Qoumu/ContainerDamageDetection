@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DSCF6487_resize_JPG_jpg.rf.4ac27d0981acf4e1f2566b183140ba73.jpg</filename>
+	<path>DSCF6487_resize_JPG_jpg.rf.4ac27d0981acf4e1f2566b183140ba73.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>394</xmax>
+			<ymin>206</ymin>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DFSU4329791-5-_JPG_jpg.rf.d680f3d164dc8917fc2bbedd34413f6c.jpg</filename>
+	<path>DFSU4329791-5-_JPG_jpg.rf.d680f3d164dc8917fc2bbedd34413f6c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>201</xmin>
+			<xmax>599</xmax>
+			<ymin>97</ymin>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

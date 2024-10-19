@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20220809-MSMU5747398MR000045442_jpg.rf.589ce6da83be00d957a0c6a322db285f.jpg</filename>
+	<path>20220809-MSMU5747398MR000045442_jpg.rf.589ce6da83be00d957a0c6a322db285f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>508</xmax>
+			<ymin>153</ymin>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

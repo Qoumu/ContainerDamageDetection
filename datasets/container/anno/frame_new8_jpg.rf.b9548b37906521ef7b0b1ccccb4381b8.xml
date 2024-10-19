@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>frame_new8_jpg.rf.b9548b37906521ef7b0b1ccccb4381b8.jpg</filename>
+	<path>frame_new8_jpg.rf.b9548b37906521ef7b0b1ccccb4381b8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>471</xmin>
+			<xmax>523</xmax>
+			<ymin>17</ymin>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>QC4-Gantry-Cam2_Crane-4_20240201172040_20240201172926_1233453_mp4-0115_jpg.rf.fde611b48f4b64f8782b08a432e5f01b.jpg</filename>
+	<path>QC4-Gantry-Cam2_Crane-4_20240201172040_20240201172926_1233453_mp4-0115_jpg.rf.fde611b48f4b64f8782b08a432e5f01b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>411</xmin>
+			<xmax>431</xmax>
+			<ymin>405</ymin>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DSCF5106-002-_jpg.rf.dbc7e2a0e2a40f45c92841ad3551741f.jpg</filename>
+	<path>DSCF5106-002-_jpg.rf.dbc7e2a0e2a40f45c92841ad3551741f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>266</xmin>
+			<xmax>448</xmax>
+			<ymin>223</ymin>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

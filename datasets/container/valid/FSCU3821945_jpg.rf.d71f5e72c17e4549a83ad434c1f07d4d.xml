@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FSCU3821945_jpg.rf.d71f5e72c17e4549a83ad434c1f07d4d.jpg</filename>
+	<path>FSCU3821945_jpg.rf.d71f5e72c17e4549a83ad434c1f07d4d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>301</xmin>
+			<xmax>362</xmax>
+			<ymin>385</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

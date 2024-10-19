@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>aug_19_5854_png_jpg.rf.50f9d1c3b2474a89d3002c577f2fddc8.jpg</filename>
+	<path>aug_19_5854_png_jpg.rf.50f9d1c3b2474a89d3002c577f2fddc8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>297</xmin>
+			<xmax>361</xmax>
+			<ymin>303</ymin>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

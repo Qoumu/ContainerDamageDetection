@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>hamburg-germany-june-shipping-containers-stacked-port-hamburg-two-them-being-damaged-damaged-shipping-container-154360895_jpg.rf.61c2f12bd79bb343a0ee6ac7187022da.jpg</filename>
+	<path>hamburg-germany-june-shipping-containers-stacked-port-hamburg-two-them-being-damaged-damaged-shipping-container-154360895_jpg.rf.61c2f12bd79bb343a0ee6ac7187022da.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>350</xmin>
+			<xmax>450</xmax>
+			<ymin>485</ymin>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

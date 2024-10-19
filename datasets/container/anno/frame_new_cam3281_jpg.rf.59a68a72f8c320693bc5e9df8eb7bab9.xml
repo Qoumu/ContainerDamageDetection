@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>frame_new_cam3281_jpg.rf.59a68a72f8c320693bc5e9df8eb7bab9.jpg</filename>
+	<path>frame_new_cam3281_jpg.rf.59a68a72f8c320693bc5e9df8eb7bab9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>61</xmax>
+			<ymin>164</ymin>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

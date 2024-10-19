@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>CAM12023-03-08-18_07_18-586344frame204_jpg.rf.af8cca6113ee225ecf4b8a1d33b3c710.jpg</filename>
+	<path>CAM12023-03-08-18_07_18-586344frame204_jpg.rf.af8cca6113ee225ecf4b8a1d33b3c710.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>411</xmin>
+			<xmax>520</xmax>
+			<ymin>258</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

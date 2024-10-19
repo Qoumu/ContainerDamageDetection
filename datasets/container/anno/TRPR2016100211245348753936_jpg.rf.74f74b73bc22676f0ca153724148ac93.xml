@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>TRPR2016100211245348753936_jpg.rf.74f74b73bc22676f0ca153724148ac93.jpg</filename>
+	<path>TRPR2016100211245348753936_jpg.rf.74f74b73bc22676f0ca153724148ac93.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>453</xmax>
+			<ymin>150</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>NotAnnotatedG1</tag>
+		</tags>
+	</metadata>
+</annotation>

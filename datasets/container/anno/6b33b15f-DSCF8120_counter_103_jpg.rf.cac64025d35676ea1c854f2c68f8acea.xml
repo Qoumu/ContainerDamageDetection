@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6b33b15f-DSCF8120_counter_103_jpg.rf.cac64025d35676ea1c854f2c68f8acea.jpg</filename>
+	<path>6b33b15f-DSCF8120_counter_103_jpg.rf.cac64025d35676ea1c854f2c68f8acea.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>202</xmax>
+			<ymin>397</ymin>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

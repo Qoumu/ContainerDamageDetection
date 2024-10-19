@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>KKTU7872034-15-_JPG_jpg.rf.fc3a6451a56b1c3b374dee738f5372dd.jpg</filename>
+	<path>KKTU7872034-15-_JPG_jpg.rf.fc3a6451a56b1c3b374dee738f5372dd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>338</xmin>
+			<xmax>621</xmax>
+			<ymin>330</ymin>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

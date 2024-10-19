@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TCNU4892359-5-_JPG_jpg.rf.805596261061a9d60be25025ea0e4bd4.jpg</filename>
+	<path>TCNU4892359-5-_JPG_jpg.rf.805596261061a9d60be25025ea0e4bd4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>636</xmax>
+			<ymin>369</ymin>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

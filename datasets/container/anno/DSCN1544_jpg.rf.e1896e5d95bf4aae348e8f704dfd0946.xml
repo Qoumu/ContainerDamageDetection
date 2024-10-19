@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DSCN1544_jpg.rf.e1896e5d95bf4aae348e8f704dfd0946.jpg</filename>
+	<path>DSCN1544_jpg.rf.e1896e5d95bf4aae348e8f704dfd0946.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>247</xmin>
+			<xmax>295</xmax>
+			<ymin>122</ymin>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

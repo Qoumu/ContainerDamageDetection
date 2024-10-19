@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TLLU4376610-17-_JPG_jpg.rf.34e271c5a70fb2f8f24749d04cf3fc72.jpg</filename>
+	<path>TLLU4376610-17-_JPG_jpg.rf.34e271c5a70fb2f8f24749d04cf3fc72.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>224</xmin>
+			<xmax>484</xmax>
+			<ymin>161</ymin>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

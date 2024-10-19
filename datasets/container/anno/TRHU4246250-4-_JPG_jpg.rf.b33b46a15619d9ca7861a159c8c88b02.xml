@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TRHU4246250-4-_JPG_jpg.rf.b33b46a15619d9ca7861a159c8c88b02.jpg</filename>
+	<path>TRHU4246250-4-_JPG_jpg.rf.b33b46a15619d9ca7861a159c8c88b02.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>194</xmin>
+			<xmax>496</xmax>
+			<ymin>77</ymin>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

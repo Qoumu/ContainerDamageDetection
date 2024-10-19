@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>damaged-shipping-container-768x513_jpg.rf.e7f8441db3473495dca77631e991dad2.jpg</filename>
+	<path>damaged-shipping-container-768x513_jpg.rf.e7f8441db3473495dca77631e991dad2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>516</xmax>
+			<ymin>224</ymin>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

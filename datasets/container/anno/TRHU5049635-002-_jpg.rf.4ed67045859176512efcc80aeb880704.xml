@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TRHU5049635-002-_jpg.rf.4ed67045859176512efcc80aeb880704.jpg</filename>
+	<path>TRHU5049635-002-_jpg.rf.4ed67045859176512efcc80aeb880704.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>174</xmin>
+			<xmax>190</xmax>
+			<ymin>437</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Photo-2-003-_jpg.rf.4ff5e23a89e71c13c238353bf075d40b.jpg</filename>
+	<path>Photo-2-003-_jpg.rf.4ff5e23a89e71c13c238353bf075d40b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>117</xmax>
+			<ymin>324</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

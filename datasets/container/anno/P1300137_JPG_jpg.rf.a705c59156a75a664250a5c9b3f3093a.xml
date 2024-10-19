@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P1300137_JPG_jpg.rf.a705c59156a75a664250a5c9b3f3093a.jpg</filename>
+	<path>P1300137_JPG_jpg.rf.a705c59156a75a664250a5c9b3f3093a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>281</xmin>
+			<xmax>522</xmax>
+			<ymin>228</ymin>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

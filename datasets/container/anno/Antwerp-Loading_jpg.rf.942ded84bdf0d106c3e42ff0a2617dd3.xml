@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Antwerp-Loading_jpg.rf.942ded84bdf0d106c3e42ff0a2617dd3.jpg</filename>
+	<path>Antwerp-Loading_jpg.rf.942ded84bdf0d106c3e42ff0a2617dd3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>531</xmin>
+			<xmax>553</xmax>
+			<ymin>464</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

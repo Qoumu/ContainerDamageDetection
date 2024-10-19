@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TGBU9857812-3-_jpg.rf.6dc8b92b37f16c460ef055833c44a514.jpg</filename>
+	<path>TGBU9857812-3-_jpg.rf.6dc8b92b37f16c460ef055833c44a514.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>300</xmin>
+			<xmax>403</xmax>
+			<ymin>220</ymin>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

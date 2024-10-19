@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ONEU0145577-5-_JPG_jpg.rf.4a8c62904d7129bef47e91def693738f.jpg</filename>
+	<path>ONEU0145577-5-_JPG_jpg.rf.4a8c62904d7129bef47e91def693738f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>360</xmin>
+			<xmax>517</xmax>
+			<ymin>20</ymin>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

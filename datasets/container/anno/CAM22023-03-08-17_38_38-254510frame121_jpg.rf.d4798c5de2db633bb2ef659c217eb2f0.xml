@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>CAM22023-03-08-17_38_38-254510frame121_jpg.rf.d4798c5de2db633bb2ef659c217eb2f0.jpg</filename>
+	<path>CAM22023-03-08-17_38_38-254510frame121_jpg.rf.d4798c5de2db633bb2ef659c217eb2f0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>61</xmax>
+			<ymin>436</ymin>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>
